@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Explorer - Tour & Travel Pariwisata",
+  "description": "Platform Tour & Travel Pariwisata untuk Private Trip, Family Holiday, dan Corporate Outbound dengan Sistem Pemesanan Online, Galeri Destinasi, Testimoni, dan Perencana Trip Interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
